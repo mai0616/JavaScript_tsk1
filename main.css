@@ -1,0 +1,25 @@
+body{
+    font-family:sans-serif;
+}
+
+.timer{
+    font-size: 28px;
+    margin-bottom: 30px
+}
+
+.buttons{
+    display: flex;
+    gap: 5px;
+}
+
+button{
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: aqua;
+    border: 1px solid royalblue;
+    border-radius: 4px;
+}
+
+h3{
+    font-size: 28px;
+}
