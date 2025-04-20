@@ -26,7 +26,7 @@ $(function(){
                 hour++;
             }
             updateDisplay();
-        },100);
+        },10);
     }
 //スタートする時
     $("#start").on("click",function(){
